@@ -1,38 +1,3 @@
-
-Turn on browser notifications when tasks complete.
-
-
-Start free trial
-
-Share
-pasted_content.txt
-Text · 10.04 KB
-/skill-creator crie uma skill baseada nas instruções organizadas no anexo
-Lite
-Com certeza! Vou ler as instruções no anexo e utilizar a skill skill-creator para criar a nova skill para você. Deixe-me preparar o plano de execução.
-
-
-Lite
-A skill youtube-scriptwriter foi criada com sucesso! Ela foi baseada nas suas instruções para o "Arquiteto de Roteiros" e está pronta para ser adicionada à sua conta.
-Esta skill transforma o Manus em um especialista de elite na criação de roteiros para YouTube, focando em:
-Engenharia de Retenção: Uso estratégico de open loops e cliffhangers.
-Fluidez Narrativa: Transições naturais que mantêm o espectador imerso.
-Análise Estratégica: Foco no nicho, dores e desejos da audiência antes da escrita.
-Estilo Cinematográfico: Roteiros que soam humanos e profissionais.
-Você pode clicar no arquivo abaixo para visualizá-lo ou adicioná-lo às suas skills.
-
-Task completed
-How was this result?
-Suggested follow-ups
-
-
-
-Cloud computers
-New
-
-Manus is an AI Agent and can make mistakes. Please double-check before use.
-
-youtube-scriptwriter.skill
 YAML
 name: youtube-scriptwriter
 description: Elite YouTube scriptwriting and content strategy. Use for creating engaging scripts, titles, hooks, and channel structures across any niche, focusing on retention and narrative flow.
