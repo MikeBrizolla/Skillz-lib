@@ -65,4 +65,4 @@ Distribute hooks strategically:
         ```
 
 ## Cultural Adaptation
-Initial content is in **Portuguese**. For other languages, preserve emotional intent and local nuances rather than literal translation.
+When asked for translate to other languages, preserve emotional intent and local nuances rather than literal translation.
