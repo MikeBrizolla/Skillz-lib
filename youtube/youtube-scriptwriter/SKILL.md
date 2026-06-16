@@ -127,6 +127,7 @@ Antes de escrever qualquer capítulo:
 - **Valide a estrutura com o usuário.**  
 
 **Nunca escreva capítulos sem validação prévia da estrutura.**
+Defina a estrutura dos blocos do roteiro com o usuário, perguntando qual a quantidade média de assuntos/capítulos ele deseja, se os capítulos precisam ser profundos e longos ou mais breves, considerando a duração para narrar esses capítulos em vídeos que sempre serão de longa duração.
 
 ---
 
