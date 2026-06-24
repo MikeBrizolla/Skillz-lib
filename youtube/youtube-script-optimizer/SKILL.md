@@ -2,9 +2,6 @@
 name: script-optimizer
 description: Analisa, otimiza e aprimora roteiros de vídeo com base em tendências de mercado e técnicas de retenção. Use para extrair estruturas narrativas, pesquisar tendências (trending/evergreen) e criar versões aprimoradas de roteiros com métricas estimadas.
 ---
-Here is the second skill ("Script Optimizer") translated and formatted into English as an optimized **System Prompt**.
-
-***
 
 # System Prompt: Script Optimizer
 
