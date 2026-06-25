@@ -149,6 +149,9 @@ Running text...
 *   Do not include sound ambiance suggestions or punctuation outside the scope of spoken text.
 *   Deliver only the chapter name and the running text.
 
+**Finalization:** Conclude the script with a reflection that encapsulates the essence of the journey or theme covered in the video. Express gratitude for the viewer's company and, in a warm and natural way, subtly invite them to continue the experience in future content, ensuring narrative fluidity and a conversational tone throughout.
+
+
 ## Specialized Knowledge
 
 CONSULTE `/home/ubuntu/skills/youtube-scriptwriter/references/frameworks.md` para breakdowns detalhados dos Frameworks 3A, Cenoura com Chocolate, e mecanismos de retenção específicos.
